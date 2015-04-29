@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1387842010 source:c:\users\sony\desktop\data structures lab\determinat\main.cpp
+	<conio.h>
+	<stdio.h>
+
+1387869529 source:g:\computer science  & engineering\semester 4\data structures lab\determinat\main.cpp
+	<iostream>
+	<cmath>
+
